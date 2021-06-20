@@ -1,0 +1,86 @@
+
+canvas {
+  margin-left: 100px;
+  width: 1200px;
+  border: 1px solid lightgray;
+  height: 200px;
+  margin-top: 100px;
+}
+.play_btn_container {
+  /* border: 1px solid grey; */
+  width: 500px;
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
+}
+.play_btn_container button {
+  padding: 10px 25px;
+  font-size: 22px;
+  line-height: 40px;
+  min-width: 150px;
+  text-align: center;
+  cursor: pointer;
+  background: linear-gradient(to right bottom, #273c75, #079992);
+  color: #fff;
+  border-radius: 5px;
+  border: 0px;
+  height: 60px;
+}
+#intro_tag{
+  color:white; 
+  background:lightgreen;
+  border: 1px solid;
+  width:fit-content;
+  padding: 7px; 
+  border-radius: 5px;
+  position: relative;
+  left:270px;
+  top:-300px;
+}
+#onesix_tag{
+  color:white; 
+  background:rgb(5, 187, 5);
+  border: 1px solid;
+  width:fit-content;
+  padding: 7px; 
+  border-radius: 5px;
+  position: relative;
+  left:425px;
+  top:-370px;
+}
+#rapport_energy{
+  color:white; 
+  background :darkgreen;
+  border: 1px solid;
+  width:fit-content;
+  padding: 7px; 
+  border-radius: 5px;
+  position: relative;
+  left:1116px;
+  top:-430px;
+}
+
+#rapport_empathy{
+  color:white; 
+  background :brown;
+  border: 1px solid;
+  width:fit-content;
+  padding: 7px; 
+  border-radius: 5px;
+  position: relative;
+  left:1085px;
+  top:-450px;
+}
+
+
+#polite_tag{
+  color:white; 
+  background :rgb(4, 4, 160);
+  border: 1px solid;
+  width:fit-content;
+  padding: 7px; 
+  border-radius: 5px;
+  position: relative;
+  left:1207px;
+  top:-430px;
+}
